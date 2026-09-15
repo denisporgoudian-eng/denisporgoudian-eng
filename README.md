@@ -74,6 +74,6 @@ Le projet couvre notamment :
 - 🔥 **Système IoT de sécurité incendie** — Détection d’incendie, données météorologiques et itinéraire sécurisé
 ## 📫 Me contacter
 
-- 💼 [LinkedIn](TON_LIEN_LINKEDIN)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ingenieur-automobile-hardware-designer-syst%C3%A8mes-embarqu%C3%A9-iot-automatismes/)
 - 💻 [GitHub](https://github.com/denisporgoudian-eng)
 - 📧 Email : denisporgoudian@gmail.com
