@@ -607,28 +607,30 @@ Participation aux activités et initiatives de l'association, avec une implicati
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denisporgoudian-eng&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisporgoudian-eng&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=denisporgoudian-eng&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisporgoudian-eng&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=denisporgoudian-eng&theme=github-dark-blue&hide_border=true" />
 </p>
 
-### 🚀 Engineering Focus
+### 🔧 Engineering Focus
 
 <p align="center">
-  <code>Embedded Systems</code>
-  <code>Firmware</code>
-  <code>Electronics</code>
-  <code>PCB Design</code>
-  <code>Industrial Automation</code>
-  <code>Automotive</code>
-  <code>IoT</code>
-  <code>AI</code>
+  <img src="https://img.shields.io/badge/Embedded_Systems-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firmware-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Electronics-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/PCB_Design-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Industrial_Automation-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automotive-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/IoT-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embedded_AI-0D1117?style=flat-square" />
 </p>
 
-> 📌 Ce profil GitHub rassemble mes projets, expérimentations et travaux techniques autour des systèmes embarqués, de l'électronique et de l'ingénierie industrielle.
+<p align="center">
+  <i>Building reliable systems at the intersection of hardware, firmware and industrial engineering.</i>
+</p>
 
 ---
 ## 📫 Contact
