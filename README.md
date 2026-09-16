@@ -1,7 +1,9 @@
 
-#                      Denis PORGOUDIAN
+<h1 align="center">Je suis Denis PORGOUDIAN</h1>
 
-### Ingénieur d'État en Systèmes Embarqués & Informatique Industrielle
+<h3 align="center">
+  Ingénieur d'État en Systèmes Embarqués & Informatique Industrielle
+</h3>
 
 <p align="center">
   <b>
@@ -15,7 +17,7 @@
 
 Je conçois et développe des **systèmes électroniques et embarqués** à l'intersection du **hardware, du firmware et des systèmes industriels**.
 
-Mon approche couvre la conception, le développement, l'intégration, la simulation, les tests et la validation de solutions destinées notamment aux environnements **industriels, automobiles et IoT**.
+Mon approche couvre la **conception, le développement, l'intégration, la simulation, les tests et la validation** de solutions destinées notamment aux environnements **industriels, automobiles et IoT**.
 
 ### 🔧 Domaines
 
@@ -29,7 +31,6 @@ Mon approche couvre la conception, le développement, l'intégration, la simulat
 | 🤖 **AI & Embedded Vision** | Machine Learning, vision et déploiement sur plateformes embarquées |
 
 ---
-
 ## 👨‍💻 About Me
 
 Je suis **Ingénieur d'État en Systèmes Embarqués & Informatique Industrielle**, avec une formation et des expériences orientées vers la conception de systèmes électroniques, le développement firmware et l'intégration de solutions industrielles et automobiles.
