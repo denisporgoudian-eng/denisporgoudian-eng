@@ -108,7 +108,7 @@ Mise en œuvre de communications entre systèmes embarqués et intégration de s
 - Communications **CAN / LIN**
 - Communication sans fil et connectivité
 - Échanges de données entre microcontrôleurs
-- **Wi-Fi & MQTT**
+- **Wi-Fi, Blutooth BLE, MQTT, LoRa**
 - Architecture de systèmes IoT
 
 </td>
@@ -118,7 +118,7 @@ Mise en œuvre de communications entre systèmes embarqués et intégration de s
 
 Conception et automatisation de systèmes industriels et analyse des problématiques énergétiques.
 
-- Programmation **PLC**
+- Programmation des **PLC**
 - Automatisation de procédés industriels
 - Contrôle-commande
 - **HMI / SCADA**
@@ -137,6 +137,7 @@ Développement et étude de fonctions embarquées appliquées au domaine automob
 
 - **ADAS**
 - Model-Based Design
+- Test **SIL/HIL**
 - Communications automobiles
 - Validation fonctionnelle
 - Architecture et développement orientés automobile
