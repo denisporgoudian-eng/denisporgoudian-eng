@@ -290,164 +290,168 @@ Intégration des différents éléments d'un système pour assurer son fonctionn
 ---
 ## 🚀 Featured Projects
 
-> Une sélection de projets illustrant mon travail en **systèmes embarqués, électronique, automatisation industrielle, automobile, IoT et intelligence artificielle**.
+> Une sélection de projets représentatifs de mon parcours en **systèmes embarqués, électronique, automatisation industrielle, automobile, contrôle et intelligence artificielle**.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🔌 Modular Embedded & IoT Board
+### 🔌 PFE — Modular Embedded & IoT Board
 
-**Carte électronique embarquée pour l'expérimentation autour des microcontrôleurs et de l'IoT.**
+**Conception et réalisation d'une carte électronique embarquée dédiée aux expérimentations autour des microcontrôleurs et de l'IoT.**
 
-- Architecture hardware modulaire
-- Conception schématique et PCB
-- Firmware sur **PIC16F877A**
+Le projet couvre l'ensemble de la chaîne de développement, de la conception électronique jusqu'à l'intégration du firmware et des communications.
+
+**🔧 Réalisation**
+- Architecture et conception du système électronique
+- Conception du schéma et du **PCB**
+- Simulation et prototypage
+- Assemblage et validation de la carte
+- Développement du firmware sur **PIC16F877A**
 - Communication **PIC ↔ ESP32**
-- Interface utilisateur : LCD, clavier, afficheurs 7 segments, LEDs
-- Acquisition de données et capteurs
+- Interfaces **UART, GPIO, ADC**
+- Intégration de capteurs et périphériques
 - Connectivité **Wi-Fi & MQTT**
-- Simulation, prototypage et validation
+
+**🛠️ Technologies**
+`PIC16F877A` `ESP32` `C` `UART` `ADC` `LCD` `Keypad` `PCB` `EasyEDA` `Proteus` `MQTT`
 
 🔗 **[View Project →](https://github.com/denisporgoudian-eng/pfe-modular-embedded-iot-board)**
 
-</td>
+---
 
-<td width="50%" valign="top">
+### 🚗 ADAS — Traffic Sign Detection & Recognition
 
-### 🚗 ADAS — Traffic Sign Detection
+**Développement d'une solution de détection et de reconnaissance de panneaux routiers destinée à une application orientée ADAS.**
 
-**Détection et reconnaissance de panneaux routiers pour une application orientée ADAS.**
-
-- Computer Vision
-- Machine Learning
-- **YOLO / R-CNN**
+**🔧 Réalisation**
 - Préparation et traitement des données
+- Développement d'une solution de détection d'objets
 - Entraînement et évaluation des modèles
-- **PyTorch**
-- Déploiement et expérimentation sur **NVIDIA Jetson Nano**
+- Détection et reconnaissance des panneaux routiers
+- Expérimentation sur plateforme embarquée
+- Analyse des performances du modèle
 
-**Focus :** perception embarquée et assistance à la conduite.
+**🛠️ Technologies**
+`Python` `PyTorch` `YOLO` `R-CNN` `Computer Vision` `NVIDIA Jetson Nano`
 
-</td>
-</tr>
+**🎯 Domaine**
+`Automotive` `ADAS` `Embedded AI` `Computer Vision`
 
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🏭 Industrial Process Automation
+### 🏭 Automatisation du lavage des filtres
 
-**Automatisation de procédés industriels et développement de solutions de contrôle-commande.**
+**Automatisation d'un processus industriel de lavage de filtres avec une approche orientée contrôle-commande.**
 
-- Programmation **PLC**
-- **Siemens TIA Portal / STEP 7**
-- **Schneider Unity Pro**
-- Automatisation de processus
-- Gestion des séquences et actionneurs
-- HMI / supervision
+**🔧 Réalisation**
+- Analyse du processus industriel
+- Définition de la séquence de fonctionnement
+- Programmation de l'automate
+- Gestion des actionneurs et conditions de fonctionnement
+- Développement de la logique de commande
 - Simulation et validation du fonctionnement
 
-**Applications :**
-- Automatisation du lavage de filtres
-- Systèmes de convoyage
-- Processus industriels
+**🛠️ Technologies**
+`Schneider Unity Pro` `PLC` `Automation` `Control Systems`
 
-</td>
+---
 
-<td width="50%" valign="top">
+### ⚡ Analyse & Automatisation de la Consommation Énergétique
 
-### ⚡ Industrial Energy Management
+**Étude et mise en œuvre d'une solution d'automatisation appliquée à l'analyse de la consommation énergétique industrielle.**
 
-**Analyse et automatisation d'un système lié à la consommation énergétique industrielle.**
-
-- Acquisition et traitement des données
+**🔧 Réalisation**
+- Analyse du fonctionnement du système
+- Acquisition et exploitation des données
 - Analyse de la consommation énergétique
-- Automatisation et contrôle
-- Programmation PLC
-- Supervision
-- Analyse des performances du système
-- Approche orientée efficacité énergétique
+- Mise en œuvre de la logique d'automatisation
+- Supervision et suivi des paramètres
+- Analyse des possibilités d'amélioration de l'efficacité énergétique
 
-**Focus :** automatisation et optimisation énergétique des systèmes industriels.
+**🛠️ Technologies**
+`Siemens TIA Portal` `STEP 7` `PLC` `HMI` `Energy Management`
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" valign="top">
+### ⚙️ Motor Control & PI/PID Regulation
 
-### ⚙️ Motor Control & Regulation
+**Étude et implémentation de systèmes de commande et de régulation de moteurs à base de systèmes embarqués.**
 
-**Étude et implémentation de commandes de moteurs à base de systèmes embarqués.**
-
-- Commande de moteurs DC
-- Commande de moteurs pas à pas
-- Génération PWM
+**🔧 Réalisation**
+- Commande de moteurs **DC**
+- Commande de moteurs **pas à pas**
+- Génération de signaux **PWM**
 - Acquisition de mesures
-- Régulation **PI / PID**
-- Programmation **PIC16F877A**
-- Expérimentation avec **DSP TMS320C2000**
+- Mise en œuvre de régulateurs **PI / PID**
+- Expérimentation sur microcontrôleur
+- Étude du comportement dynamique du système
 
-**Focus :** contrôle, régulation et systèmes embarqués temps réel.
+**🛠️ Technologies**
+`PIC16F877A` `DSP TMS320C2000` `PWM` `PI` `PID` `C`
 
-</td>
+---
 
-<td width="50%" valign="top">
+### 🚘 Automotive Model-Based Design — ACC
 
-### 🚘 Automotive Model-Based Design
+**Modélisation et étude d'une fonction Adaptive Cruise Control dans un environnement automobile.**
 
-**Étude et développement de fonctions automobiles avec une approche Model-Based Design.**
+**🔧 Réalisation**
+- Modélisation du comportement du système
+- Définition de la logique de contrôle
+- Simulation de la fonction **ACC**
+- Analyse du comportement dans différents scénarios
+- Validation fonctionnelle du modèle
 
-- **MATLAB / Simulink**
-- Modélisation fonctionnelle
-- **Adaptive Cruise Control (ACC)**
-- Logique de commande des éclairages extérieurs
-- Simulation et validation fonctionnelle
-- Introduction aux approches **AUTOSAR / ISO 26262**
-- Contraintes de développement automobile
+**🛠️ Technologies**
+`MATLAB` `Simulink` `Model-Based Design` `ACC`
 
-**Focus :** conception et validation de fonctions embarquées automobiles.
+---
 
-</td>
-</tr>
+### 💡 Automotive Exterior Lighting Control
 
-<tr>
-<td width="50%" valign="top">
+**Étude et modélisation de la logique de commande des éclairages extérieurs d'un véhicule.**
+
+**🔧 Réalisation**
+- Analyse des exigences fonctionnelles
+- Modélisation de la logique de commande
+- Gestion des différents états du système
+- Simulation
+- Vérification du comportement fonctionnel
+
+**🛠️ Technologies**
+`MATLAB` `Simulink` `Model-Based Design`
+
+---
 
 ### 🔋 DC-DC Buck Converter
 
-**Conception et étude d'un convertisseur de puissance DC-DC.**
+**Conception et étude d'un convertisseur DC-DC de type Buck pour une application d'électronique de puissance.**
 
-- Électronique de puissance
-- Conversion DC-DC
-- Génération PWM
-- Simulation
+**🔧 Réalisation**
+- Analyse du principe de fonctionnement
 - Dimensionnement des composants
-- Étude du comportement électrique
+- Étude de la conversion d'énergie
+- Simulation du circuit
+- Analyse des paramètres électriques
+- Évaluation du comportement du convertisseur
 
-**Focus :** conversion d'énergie et électronique de puissance.
+**🛠️ Technologies**
+`Power Electronics` `DC-DC` `PWM` `PSIM` `Simulation`
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🤖 Embedded & Robotics Projects
 
-**Projets pratiques autour des microcontrôleurs, de la robotique et des systèmes autonomes.**
+**Ensemble de projets pratiques développés autour des microcontrôleurs, de la robotique et de l'intégration de systèmes.**
 
-- **Arduino**
-- Capteurs et actionneurs
-- Line follower
+**Projets réalisés**
+- Line Follower
 - Bras robotisé
 - Système de détection d'incendie
 - Acquisition et traitement de données
-- Intégration hardware / software
+- Intégration de capteurs et actionneurs
 
-**Focus :** prototypage rapide et intégration de systèmes embarqués.
-
-</td>
-</tr>
-</table>
+**🛠️ Technologies**
+`Arduino` `Embedded Systems` `Sensors` `Actuators` `Robotics`
 
 ---
 ## 🏭 Industrial Experience
