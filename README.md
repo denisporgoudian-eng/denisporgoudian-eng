@@ -639,7 +639,7 @@ Participation aux activités et initiatives de l'association, avec une implicati
   <a href="mailto:denisporgoudian@gmail.com">
     <img src="https://img.shields.io/badge/Email-denisporgoudian%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/ingenieur-automobile-hardware-designer-syst%C3%A8mes-embarqu%C3%A9-iot-automatismes/)">
+  <a href="https://www.linkedin.com/in/ingenieur-automobile-hardware-designer-syst%C3%A8mes-embarqu%C3%A9-iot-automatismes/">
     <img src="https://img.shields.io/badge/LinkedIn-Denis_Porgoudian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/denisporgoudian-eng">
