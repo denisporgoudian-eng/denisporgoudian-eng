@@ -226,6 +226,7 @@ Intégration des différents éléments d'un système pour assurer son fonctionn
   <img src="https://img.shields.io/badge/I²C-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CAN-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LIN-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
   <img src="https://img.shields.io/badge/Wi--Fi-555555?style=for-the-badge&logo=wifi&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
   <img src="https://img.shields.io/badge/LoRa-1264A3?style=for-the-badge" />
@@ -238,6 +239,8 @@ Intégration des différents éléments d'un système pour assurer son fonctionn
   <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
   <img src="https://img.shields.io/badge/EasyEDA-1A73E8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Proteus-1F3C88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LTspice-900000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PSpice-900000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PSIM-555555?style=for-the-badge" />
 </p>
 
